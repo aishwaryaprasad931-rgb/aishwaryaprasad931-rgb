@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Aishwarya Prasad, a Computer Science and Engineering student passionate about programming, problem-solving, and technology.<br><br>💻 C, C++, Python, HTML and AI<br>🚀 Building projects and exploring new technologies<br>🧠 Interested in problem-solving and software development<br>🤝 Open to learning, collaboration, and new opportunities<br><br>«Learn • Build • Improve • Repeat 🚀» 
+Hi! I'm Aishwarya Prasad, a Computer Science and Engineering student passionate about programming, problem-solving, and technology.<br><br>💻 C, Python, HTML, CSS and AI<br>🚀 Building projects and exploring new technologies<br>🧠 Interested in problem-solving and software development<br>🤝 Open to learning, collaboration, and new opportunities<br><br>«Learn • Build • Improve • Repeat 🚀» 
 
 ## Portfolio:  https://aishwaryaprasad931-rgb.github.io/portfolio/
 
